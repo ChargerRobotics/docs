@@ -1,9 +1,22 @@
-FRC Team 5071 Software Guide
+Welcome to Lumache's documentation!
 ===================================
-This is team 5071's software guide, designed to document everything this team has learned.
 
-Guides documented here assume you already know basic Java syntax. If you still need to learn, here are a couple resources to help you get started:
+**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients.
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
 
-- `CodeHS <https://codehs.com/course/apcsanitro/overview>`
-- `CodeAcademy <https://www.codecademy.com/learn/learn-java>`
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
 
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
