@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'frc5071'
-author = 'DatAsianBoi123'
+author = 'Charger Robotics'
 
 release = '0.1'
 version = '0.1.0'
